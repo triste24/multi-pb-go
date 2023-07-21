@@ -1,2 +1,2 @@
-# multi_pb_go_demo
+# multi-pb-go
 multi protobuf golang demo
