@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package a;
+
+import "protob/b.proto";
+
+option go_package = "testpb/protoa";
+
+message A{
+	b.B b = 1;
+}
